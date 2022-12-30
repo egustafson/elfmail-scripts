@@ -1,2 +1,4 @@
-# elfmail-scripts
-Scripts and tooling to support elfmail
+elfmail-scripts
+===============
+
+Scripts and tooling to support elfmail.
